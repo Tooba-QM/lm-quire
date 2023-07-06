@@ -1,14 +1,14 @@
 figure_list:
 
   - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
+    src: figures/I2.jpg
+    caption: "Jean-Léon Gérôme, The Black Bard, 1888, oil on canvas, 61.2 x 50.8 cm."
     credit: " Lusail Museum, Qatar Museums, 2022."
 
   - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: " Lusail Museum, Qatar Museums, 2022."
+    src: figures/I3.jpg
+    caption: "Encampment near Constantinople, 1878, an example of Gérôme's plein-air oil sketches"
+    credit: "Ger Eenens Collection, The Netherlands"
 
   - id: "fig-1"
     label: "Figure 1"
