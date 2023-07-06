@@ -37,7 +37,7 @@ publisher:
   - name: Tooba Aziz
     location: Qatar
     url:
-    logo: logo-getty.png
+    logo: LM_logo_lowres_white_pink_ff476c_square.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -53,8 +53,8 @@ contributor:
     title: Intern at LM
     affiliation: LM Museum
     bio: "As an intern at a prestigious museum, I am fortunate to have the opportunity to immerse myself in the captivating world of art and culture. Joining the museum in [year], I have been able to contribute to various aspects of its operations, gaining invaluable hands-on experience along the way. Under the guidance of seasoned professionals, I have had the privilege of assisting with exhibition preparations, conducting research on artworks, and engaging with visitors to enhance their museum experience. Additionally, my time as an intern has allowed me to collaborate closely with curators and museum staff, gaining insights into the intricate processes of collection management and conservation. This internship has been a transformative experience, deepening my appreciation for the importance of preserving and sharing art, and inspiring my own growth as a future museum professional."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    url: https://tooba-qm.github.io/internship-QM/
+    image: contributors/personal.jpg
 
 # ------------------------------------------------------------------------------
 # Copright & License

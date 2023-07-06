@@ -1,6 +1,6 @@
 ---
 title: Introduction
-subtitle: A Tale of Two Photographers
+subtitle: Tales of Connected World
 layout: splash
 order: 10
 image: figures/lange-house.jpg
