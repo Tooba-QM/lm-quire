@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Contributor
 layout: page
 order: 501
 ---
