@@ -11,33 +11,33 @@
     {
       "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-1/canvas",
       "type": "Canvas",
-      "height": 6073,
-      "width": 4748,
+      "height": 853,
+      "width": 693,
       "items": [
         {
           "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-1/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-1/canvas/lange-mother-a",
+              "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-1/canvas/S5",
               "motivation": "painting",
               "target": "https://tooba-qm.github.io/lm-quire//iiif\\cat-1/canvas",
               "type": "Annotation",
               "body": {
-                "id": "https://tooba-qm.github.io/lm-quire/https:/tooba-qm.github.io/lm-quire/iiif/cat-1/lange-mother-a/tiles/info.json",
+                "id": "https://tooba-qm.github.io/lm-quire/https:/tooba-qm.github.io/lm-quire/iiif/cat-1/S5/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 6073,
-                "width": 4748,
+                "height": 853,
+                "width": 693,
                 "label": {
                   "en": [
-                    "Lange-mother-a"
+                    "S5"
                   ]
                 },
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://tooba-qm.github.io/lm-quire/iiif/cat-1/lange-mother-a/tiles/info.json",
+                    "@id": "https://tooba-qm.github.io/lm-quire/iiif/cat-1/S5/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }

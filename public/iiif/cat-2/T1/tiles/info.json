@@ -1,0 +1,27 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://tooba-qm.github.io/lm-quire/iiif/cat-2/T1/tiles",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 256
+    }
+  ],
+  "width": 673,
+  "height": 843
+}

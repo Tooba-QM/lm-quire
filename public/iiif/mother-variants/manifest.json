@@ -11,8 +11,8 @@
     {
       "id": "https://tooba-qm.github.io/lm-quire//iiif\\mother-variants/canvas",
       "type": "Canvas",
-      "height": 1024,
-      "width": 826,
+      "height": 2880,
+      "width": 1920,
       "items": [
         {
           "id": "https://tooba-qm.github.io/lm-quire//iiif\\mother-variants/canvas/annotation-page",
@@ -27,11 +27,11 @@
                 "type": "Choice",
                 "items": [
                   {
-                    "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-variants/lange-mother-b.jpg",
+                    "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-variants/O1.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "height": 1024,
-                    "width": 826,
+                    "height": 2880,
+                    "width": 1920,
                     "label": {
                       "en": [
                         "Variant #1"
@@ -39,11 +39,11 @@
                     }
                   },
                   {
-                    "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-variants/lange-mother-c.jpg",
+                    "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-variants/O2.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "height": 1024,
-                    "width": 826,
+                    "height": 2880,
+                    "width": 1920,
                     "label": {
                       "en": [
                         "Variant #2"

@@ -11,33 +11,33 @@
     {
       "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-2/canvas",
       "type": "Canvas",
-      "height": 4276,
-      "width": 5365,
+      "height": 843,
+      "width": 673,
       "items": [
         {
           "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-2/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-2/canvas/evans-fields-family-a",
+              "id": "https://tooba-qm.github.io/lm-quire//iiif\\cat-2/canvas/T1",
               "motivation": "painting",
               "target": "https://tooba-qm.github.io/lm-quire//iiif\\cat-2/canvas",
               "type": "Annotation",
               "body": {
-                "id": "https://tooba-qm.github.io/lm-quire/https:/tooba-qm.github.io/lm-quire/iiif/cat-2/evans-fields-family-a/tiles/info.json",
+                "id": "https://tooba-qm.github.io/lm-quire/https:/tooba-qm.github.io/lm-quire/iiif/cat-2/T1/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 4276,
-                "width": 5365,
+                "height": 843,
+                "width": 673,
                 "label": {
                   "en": [
-                    "Evans-fields-family-a"
+                    "T1"
                   ]
                 },
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://tooba-qm.github.io/lm-quire/iiif/cat-2/evans-fields-family-a/tiles/info.json",
+                    "@id": "https://tooba-qm.github.io/lm-quire/iiif/cat-2/T1/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }

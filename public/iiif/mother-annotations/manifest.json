@@ -11,24 +11,24 @@
     {
       "id": "https://tooba-qm.github.io/lm-quire//iiif\\mother-annotations/canvas",
       "type": "Canvas",
-      "height": 1455,
-      "width": 1200,
+      "height": 534,
+      "width": 752,
       "items": [
         {
           "id": "https://tooba-qm.github.io/lm-quire//iiif\\mother-annotations/canvas/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://tooba-qm.github.io/lm-quire//iiif\\mother-annotations/canvas/base",
+              "id": "https://tooba-qm.github.io/lm-quire//iiif\\mother-annotations/canvas/I1",
               "motivation": "painting",
               "target": "https://tooba-qm.github.io/lm-quire//iiif\\mother-annotations/canvas",
               "type": "Annotation",
               "body": {
-                "id": "https://tooba-qm.github.io/lm-quire/https:/tooba-qm.github.io/lm-quire/iiif/mother-annotations/base/tiles/info.json",
+                "id": "https://tooba-qm.github.io/lm-quire/https:/tooba-qm.github.io/lm-quire/iiif/mother-annotations/I1/tiles/info.json",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 1455,
-                "width": 1200,
+                "height": 534,
+                "width": 752,
                 "label": {
                   "en": [
                     "Figure 1.2"
@@ -37,7 +37,7 @@
                 "service": [
                   {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://tooba-qm.github.io/lm-quire/iiif/mother-annotations/base/tiles/info.json",
+                    "@id": "https://tooba-qm.github.io/lm-quire/iiif/mother-annotations/I1/tiles/info.json",
                     "profile": "level0",
                     "protocol": "http://iiif.io/api/image"
                   }
@@ -53,8 +53,8 @@
                 "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-annotations/original-label.png",
                 "type": "Image",
                 "format": "image/png",
-                "height": 1455,
-                "width": 1200,
+                "height": 534,
+                "width": 752,
                 "label": {
                   "en": [
                     "Original-label"
@@ -71,8 +71,8 @@
                 "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-annotations/additional-label.png",
                 "type": "Image",
                 "format": "image/png",
-                "height": 1455,
-                "width": 1200,
+                "height": 534,
+                "width": 752,
                 "label": {
                   "en": [
                     "Additional-label"
@@ -89,8 +89,8 @@
                 "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-annotations/scratches.png",
                 "type": "Image",
                 "format": "image/png",
-                "height": 1455,
-                "width": 1200,
+                "height": 534,
+                "width": 752,
                 "label": {
                   "en": [
                     "Scratches"
@@ -107,8 +107,8 @@
                 "id": "https://tooba-qm.github.io/lm-quire/iiif/mother-annotations/thumb.png",
                 "type": "Image",
                 "format": "image/png",
-                "height": 1455,
-                "width": 1200,
+                "height": 534,
+                "width": 752,
                 "label": {
                   "en": [
                     "Thumb"
