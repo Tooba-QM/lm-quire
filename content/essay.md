@@ -1,47 +1,80 @@
 ---
 label: I
-title: American Photographs
-subtitle: Evans in Middletown
+title: LM museums
+subtitle: Doha,Qatar
 layout: essay
 order: 30
 class: page-one
 contributor:
   - id: jkeller
 abstract: |
-  Excerpt from *Walker Evans: Catalogue of the Collection* (1995) by Judith Keller. Available for free download in its entirety, in the Getty Publications [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html).
+  Excerpt from Tales of a Connected World: About the Galleries [Virtual Library](https://qm.org.qa/en/calendar/lusail-museum-tales-of-a-connected-world/about-the-galleries/).
 ---
 
-When Evans was officially hired in October 1935 as an Information Specialist by the Historical Section of the Resettlement Administration, his duties were described as follows: "Under the general supervision of the Chief of the Historical Section with wide latitude for the exercise of independent judgement and decision as Senior Information Specialist to carry out special assignments in the field; collect, compile and create photographic material to illustrate factual and interpretive news releases and other informational material upon all problems, progress and activities of the Resettlement Administration."[^1] Evans was to make liberal use of his right to exercise "independent judgement" during his time with the RA, and he perpetually resisted the idea that his purpose there was to gather illustrations for the promotion of the RA's (that is, the federal government's New Deal) programs. While considering a position with the RA in the spring of 1935, he jotted down those things he would require of his employer, including the "guarantee of one-man performance," and what he would provide, adding that he should not be asked to do anything more in the way of political propaganda: "[I] Mean never [to] make photographic statements for the government or do photographic chores for gov or anyone in gov, no matter how powerful—this is pure record not propaganda. The value and, if you like, even the propaganda value for the government lies in the record itself which in the long run will prove an intelligent and farsighted thing to have done. NO POLITICS whatever." ({% cite 'Evans 1938' %})
+The Lusail Museum is a remarkable institution that boasts an extensive and captivating collection of Orientalist art, making it one of the most significant repositories of its kind in the world. Within its walls, visitors have the opportunity to immerse themselves in a journey through time, exploring archaeological artifacts, artworks, and media that span from prehistoric eras to the vibrant present of the 21st century.
+
+The primary focus of the museum's exhibition is to shed light on the intricate cultural interactions that have occurred between the greater MENA (Middle East and North Africa) region and its surrounding peripheries. Beyond the MENA region itself, the exhibition delves into the connections and exchanges with Europe, Central and East Africa, as well as Central, South, and East Asia. By examining these diverse interactions, the museum aims to foster a deeper understanding of the cultural interplay that has shaped the artistic landscape of these regions throughout history.
+
+One of the core themes explored within the exhibition is the role of art in the transformation of cultural representations from the pre-Islamic period up to the present day. By showcasing a wide array of artistic expressions, ranging from ancient artifacts to contemporary creations, the museum enables visitors to witness the evolution and continuity of cultural narratives. This exploration encompasses various art forms, such as paintings, sculptures, ceramics, textiles, and multimedia installations.
+
+
 
 {% figure 'vid-1' %}
 
-Because his pictures had been issued by the agency with policy-approved captions for the past three years, Evans felt the need in 1938 to distance himself from that establishment, as well as the world of commercial publishing, by prefacing *American Photographs* with this statement: "The responsibility for the selection of the pictures used in this book has rested with the author, and the choice has been determined by his opinion: therefore they are presented without sponsorship or connection with the policies, aesthetic or political, of any of the institutions, publications or government agencies for which some of the work has been done."[^2] Stryker's business was to provide informative images to the mass media, and he and Evans would always disagree about the most appropriate vehicle for the latter's photographs, as well as the definition of "documentary." But when the photography project of the RA began, the two men were able to agree on its primary subject: American history as exemplified by life in the average American town. Evans's vision for documenting American life had begun to form much earlier; a letter drafted to his friend Ernestine Evans, an editor at J. B. Lippincott, in February of 1934, makes clear his aspirations:
+Through this comprehensive examination, the exhibition provides insight into how art has both reflected and influenced societal, religious, and political changes over time. It delves into the repercussions of these transformations, considering their impact on cultural identity, intercultural dialogue, and the formation of artistic movements. By doing so, the Lusail Museum creates a space for contemplation and critical reflection on the rich and complex tapestry of cultural heritage.
 
-> What do I want to do? ... I know now is the time for picture books. An American city is the best, Pittsburgh better than Washington. I know more about such a place. I would want to visit several besides Pittsburgh before deciding. Something perhaps smaller. Toledo, Ohio, maybe. Then I’m not sure a book of photos should be identified locally. American city is what I'm after.... People, all classes, surrounded by bunches of the new down-and-out. Automobiles and the automobile landscape. Architecture, American urban taste, commerce, small scale, large scale, the city street atmosphere, the street smell, the hateful stuff, women's clubs, fake culture, bad education, religion in decay....[^3]
+Moreover, the museum serves as a platform for scholarly research, fostering collaborations with experts and institutions from around the world. It actively engages in archaeological excavations, conservation efforts, and curatorial projects, continually expanding its collection and knowledge base. By staying at the forefront of academic discourse and embracing innovative exhibition practices, the Lusail Museum strives to remain a beacon of cultural exchange and understanding, promoting dialogue and appreciation for diverse artistic traditions.
 
-The two men could find common ground in part due to the widespread influence of the 1929 publication *Middletown: A Study in Modern American Culture* by Robert and Helen Lynd, professors of sociology at Columbia and Sarah Lawrence, respectively. A 550-page field investigation by social anthropologists with subject headings including "What Middletown does to get its living" and "The houses in which Middletown lives," this pioneering project attempted an objective analysis of life in a small Midwestern American city (Muncie, Indiana). The Lynds' study was hailed as a very accessible report that was most appealing because it made "no attempt to prove anything" but simply recorded "what was observed." The Lynds introduced their topic by saying their goal "was to study synchronously the interwoven trends that are the life of a small American city. A typical city, strictly speaking, does not exist, but the city studied was selected a shaving many features in common to a wide group of communities." ({% cite 'Lynd 1929' '3' %})
+Overall, the Lusail Museum's dedication to showcasing Orientalist art and cultural artifacts, combined with its emphasis on the interconnectedness of various regions and time periods, makes it a unique and invaluable institution in the global art world. It provides a captivating and enlightening experience for visitors, inviting them to embark on a transformative journey through the intricate tapestry of human creativity and cultural expression.
 
 {% figure 'fig-1' %}
 
-The "Outline Memorandum" that Evans prepared in October 1935, probably at Stryker's request, laying out plans for an eight-week automobile trip through the Southeast, makes reference to Middletown and presents thoughts similar to the photographer's musings of 1934:
+<div style="text-align: right;">
+  <p>
+  
+متحف لوسيل هو مؤسسة رائعة تفتخر بمجموعة واسعة وآسرة من الفن الاستشراقي ، مما يجعلها واحدة من أهم المستودعات من نوعها في العالم. داخل جدرانه ، يتمتع الزوار بفرصة الانغماس في رحلة عبر الزمن ، واستكشاف القطع الأثرية والأعمال الفنية والوسائط التي تمتد من عصور ما قبل التاريخ إلى الحاضر النابض بالحياة للقرن الحادي والعشرين.
 
-> First objective, Pittsburgh and vicinity, one week; photography, documentary in style, of industrial subjects, emphasis on housing and home life of working-class people.... Ohio Valley: rural architecture, including the historical, contemporary "Middletown" subjects; Cincinnati [sic] housing; notes on style of Victorian prosperous period.... Indiana, Kentucky, Illinois river towns, gather typical documents, main streets, etc., in passing. Ditto Mississippi river towns. Select one of these towns, such as Hannibal, Missouri, for more thorough treatment, if time allows.[^4]
+ينصب التركيز الأساسي لمعرض المتحف على تسليط الضوء على التفاعلات الثقافية المعقدة التي حدثت بين منطقة الشرق الأوسط وشمال إفريقيا (الشرق الأوسط وشمال إفريقيا) والأطراف المحيطة بها. خارج منطقة الشرق الأوسط وشمال إفريقيا نفسها ، يتعمق المعرض في الروابط والتبادلات مع أوروبا ووسط وشرق إفريقيا ، وكذلك وسط وجنوب وشرق آسيا. من خلال دراسة هذه التفاعلات المتنوعة ، يهدف المتحف إلى تعزيز فهم أعمق للتفاعل الثقافي الذي شكل المشهد الفني لهذه المناطق عبر التاريخ.
+
+أحد الموضوعات الأساسية التي تم استكشافها في المعرض هو دور الفن في تحول التمثيلات الثقافية من فترة ما قبل الإسلام حتى يومنا هذا. من خلال عرض مجموعة واسعة من أشكال التعبير الفني ، بدءًا من القطع الأثرية القديمة إلى الإبداعات المعاصرة ، يتيح المتحف للزوار مشاهدة تطور واستمرارية الروايات الثقافية. يشمل هذا الاستكشاف أشكالًا فنية مختلفة ، مثل اللوحات والمنحوتات والسيراميك والمنسوجات وتركيبات الوسائط المتعددة.
+
+من خلال هذا الفحص الشامل ، يقدم المعرض نظرة ثاقبة لكيفية انعكاس الفن وتأثيره على التغيرات المجتمعية والدينية والسياسية بمرور الوقت. ويتعمق في تداعيات هذه التحولات ، آخذًا في الاعتبار تأثيرها على الهوية الثقافية ، والحوار بين الثقافات ، وتشكيل الحركات الفنية. من خلال القيام بذلك ، يخلق متحف لوسيل مساحة للتأمل والتفكير النقدي في النسيج الغني والمعقد للتراث الثقافي.
+
+  </p>
+</div>
 
 {% figure 'fig-2' 'is-pulled-right' %}
 
-This document goes on to list antebellum plantation architecture in Natchez, Mississippi; small rural French towns in Teche Parish, Louisiana; industrial themes in Birmingham, Alabama; and a cotton plantation in South Carolina, as objectives of the proposed trip for gathering still photography of a "general sociological nature." In early 1936, one of *Middletown's* authors had a chance to directly affect the RA's Photography Section: Stryker showed Robert Lynd, a former Columbia colleague, some RA pictures and asked for his opinion while lunching with him in New York. The result was a "shooting script" for "things which should be photographed as American Background," issued by Stryker to his team of photographers. The script contains an extensive listing of items like "People on and off the job," "How do people look?," "The wall decoration in homes as an index to the different income groups and their reactions," and "A photographic study of use of leisure time in various income groups."[^5]
+<div style="text-align: right;">
+  <p>
+  
+علاوة على ذلك ، يعمل المتحف كمنصة للبحث العلمي ، وتعزيز التعاون مع الخبراء والمؤسسات من جميع أنحاء العالم. تشارك بنشاط في الحفريات الأثرية ، وجهود الحفظ ، ومشاريع تنظيم المعارض ، وتوسّع باستمرار قاعدة مجموعتها والمعرفة. من خلال البقاء في طليعة الخطاب الأكاديمي واعتناق ممارسات العرض المبتكرة ، يسعى متحف لوسيل إلى أن يظل منارة للتبادل الثقافي والتفاهم ، وتعزيز الحوار والتقدير للتقاليد الفنية المتنوعة.
+
+
+  </p>
+</div>
 
 {% figure 'fig-3' 'is-pulled-left' %}
 
-Once Evans was officially on staff, his first trip under Stryker's direction seems to have been an extended fall visit to Bethlehem, Pennsylvania, where steel mills, workers' housing, parading legionnaires, and elaborate gravestones ({% ref 'fig-1, fig-2, fig-3' %}) were his subjects. Between November 1935 and April 1936, Evans made two lengthy road trips that would account for the bulk of his entire production for the RA and many of the 169 mid-thirties pictures that follow this essay. From November to mid-January, here turned to industrial centers in Pennsylvania, finally spending some time in Pittsburgh, and went on to Ohio, Kentucky, Tennessee, Alabama, Mississippi, and Louisiana, following to some extent the course outlined in the memorandum above. In February 1936, he left again, with a completely Southern itinerary that would take him through many small cities, some of them renowned for ante-bellum architecture and Civil War battles, in Louisiana, Mississippi, Alabama, Georgia, Florida, the Carolinas, and Virginia.
-
-In the spring of 1936, Stryker approved a furlough for Evans to work on a *Fortune* story with James Agee. This leave for mid-July through mid-September allowed Evans to return to the "middle south" with Agee to prepare "an article on cotton tenantry in the United States, in the form of a photographic and verbal record of the daily lives and environment of an average white family of tenant farmers" ({% ref 'fig-4, fig-5' %}). ({% cite 'Agee 1941' 'viii' %}) According to the terms of Stryker's arrangement with *Fortune's* art editor, the pictures Evans produced on this job would become the property of the RA after the magazine had run the finished essay in a fall issue.
+<div style="text-align: right;">
+  <p>
+  
+بشكل عام ، فإن تفاني متحف لوسيل في عرض الفن الاستشراقي والتحف الثقافية ، جنبًا إلى جنب مع تركيزه على الترابط بين مختلف المناطق والفترات الزمنية ، يجعله مؤسسة فريدة لا تقدر بثمن في عالم الفن العالمي. يوفر تجربة آسرة ومفيدة للزوار ، ويدعوهم للشروع في رحلة تحويلية من خلال النسيج المعقد للإبداع البشري والتعبير الثقافي.
+بشكل عام ، فإن تفاني متحف لوسيل في عرض الفن الاستشراقي والتحف الثقافية ، جنبًا إلى جنب مع تركيزه على الترابط بين مختلف المناطق والفترات الزمنية ، يجعله مؤسسة فريدة لا تقدر بثمن في عالم الفن العالمي. يوفر تجربة آسرة ومفيدة للزوار ، ويدعوهم للشروع في رحلة تحويلية من خلال النسيج المعقد للإبداع البشري والتعبير الثقافي.
+بشكل عام ، فإن تفاني متحف لوسيل في عرض الفن الاستشراقي والتحف الثقافية ، جنبًا إلى جنب مع تركيزه على الترابط بين مختلف المناطق والفترات الزمنية ، يجعله مؤسسة فريدة لا تقدر بثمن في عالم الفن العالمي. يوفر تجربة آسرة ومفيدة للزوار ، ويدعوهم للشروع في رحلة تحويلية من خلال النسيج المعقد للإبداع البشري والتعبير الثقافي.
+بشكل عام ، فإن تفاني متحف لوسيل في عرض الفن الاستشراقي والتحف الثقافية ، جنبًا إلى جنب مع تركيزه على الترابط بين مختلف المناطق والفترات الزمنية ، يجعله مؤسسة فريدة لا تقدر بثمن في عالم الفن العالمي. يوفر تجربة آسرة ومفيدة للزوار ، ويدعوهم للشروع في رحلة تحويلية من خلال النسيج المعقد للإبداع البشري والتعبير الثقافي.
+  </p>
+</div>
 
 {% figuregroup '2' 'fig-4, fig-5' %}
 
-Once Evans returned from this trip south, during which he and Agee documented the lives of the Burroughs, Fields, and Tengle families in Alabama (see [*Bud Fields with His Wife*](/catalogue/3/) and [*Burrough's Family*](/catalogue/4/)), he spent September and October printing his pictures and preparing presentations for both *Fortune* and Stryker.[^6] Stryker again talked about a New England trip, on which he planned to accompany the photographer, but it did not materialize, and Evans was once more sent to the South, this time to photograph the catastrophe of flooding in Arkansas and Tennessee. An unusual and demanding assignment for Evans, this trip of late January and February 1937 was made with another RA photographer, Edwin Locke, and required that he spend considerable time in the affected area, photographing the flood victims and their temporary shelters.
+<div style="text-align: right;">
+  <p>
+  
+بشكل عام ، فإن تفاني متحف لوسيل في عرض الفن الاستشراقي والتحف الثقافية ، جنبًا إلى جنب مع تركيزه على الترابط بين مختلف المناطق والفترات الزمنية ، يجعله مؤسسة فريدة لا تقدر بثمن في عالم الفن العالمي. يوفر تجربة آسرة ومفيدة للزوار ، ويدعوهم للشروع في رحلة تحويلية من خلال النسيج المعقد للإبداع البشري والتعبير الثقافي.
 
-This would be his last travel for the RA, an agency that was absorbed into the Farm Security Administration at about this time. Evans's contributions to the RA's documentation of Depression-era America had essentially been obtained between the summer of 1935 and the spring of 1936, a period of less than a year. The Alabama pictures made while on leave to *Fortune* would become his best-known photographs and, ironically, those most closely identified with his work as a New Deal photographer.
+  </p>
+</div>
 
 {% backmatter %}
 
@@ -53,10 +86,5 @@ This would be his last travel for the RA, an agency that was absorbed into the F
 
 [^3]: From a review by W. B. Shaw, quoted in *Book Review Digest: Books of l929* (New York: H. W. Wilson, 1930), 591.
 
-[^4]: Walker Evans to Roy Stryker, "Outline Memorandum," ca. Oct.1935, *Stryker Papers*. Also published in Walker Evans at Work, 113.
-
-[^5]: Roy Stryker to all FSA (then RA) photographers, outline for "Suggestions recently made by Robert Lyndf or things which should be photo-graphed as 'American Background,'" dated by Stryker to early 1936, first published in Carver, *Just Before the War*, n.p.
-
-[^6]: For more background on this Alabama series and a discussion of two photograph albums in the collection of the Prints and Photographs Division of the Library of Congress thought to beEvans's "first draft" for Fortune, seeJudith Keller and Beverly Brannan, "Walker Evans: Two Albums in the Library of Congress," *History of Photography* 19:1 (Spring 1995).
 
 {% endbackmatter %}

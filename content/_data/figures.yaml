@@ -12,31 +12,31 @@ figure_list:
 
   - id: "fig-1"
     label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
+    src: figures/C1.jpg
+    caption: ""
     credit: " Lusail Museum, Qatar Museums, 2022."
 
   - id: "fig-2"
     label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
+    src: figures/C2.jpg
+    caption: ""
     credit: " Lusail Museum, Qatar Museums, 2022."
 
   - id: "fig-3"
     label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
+    src: figures/C3.jpg
+    caption: ""
     credit: " Lusail Museum, Qatar Museums, 2022."
 
   - id: "fig-4"
     label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
+    src: figures/C4jpg
+    caption: ""
     credit: " Lusail Museum, Qatar Museums, 2022."
 
   - id: "fig-5"
     label: "Figure 5"
-    src: figures/evans-burroughs.jpg
+    src: figures/C5.jpg
     caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
     credit: " Lusail Museum, Qatar Museums, 2022."
 
@@ -46,11 +46,11 @@ figure_list:
     credit:  Lusail Museum, Qatar Museums, 2022.
 
   - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
+    poster: figures/L1.png
+    media_id: ocipW_Z1KR4
     media_type: youtube
     label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
+    caption: "The New Lusail Museum"
     credit:  Lusail Museum, Qatar Museums, 2022.
 
   - id: "table-1"
@@ -65,7 +65,7 @@ figure_list:
     credit: "©  Lusail Museum, Qatar Museums, 2022."
 
   - id: "cat-1"
-    src: figures/lange-mother-a.jpg
+    src: figures/S5.jpg
     caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
     credit:  Lusail Museum, Qatar Museums, 2022.
     download: true
@@ -73,21 +73,21 @@ figure_list:
 
   - id: "mother-variants"
     label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
+    caption: "Afghan Girl (Sharbat Gula, at Nashir Bagh refugee camp, Peshawar, Pakistan), Steve McCurry, 1984, Photograph, General Collection – Doha. "
+    credit: "Photo: © General Collection – Doha, 2022  "
     annotations:
       - input: radio
         items:
-        - src: figures/lange-mother-b.jpg
+        - src: figures/O1.jpg
           label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
+        - src: figures/O2.jpg
           label: "Variant #2"
 
   - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
+    src: "figures/I1.jpg"
     zoom: true
     label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
+    caption: "Lawrence Alma-Tadema, The Meeting of Antony and Cleopatra, ca. 1884, oil on panel, 65.5 x 91.4 cm. Lusail Museum Collection. Photo: © Lusail Museum, Qatar Museums, 2022."
     annotations:
       - input: checkbox
         items:
@@ -99,18 +99,18 @@ figure_list:
             selected: true
 
   - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
+    src: figures/T1.jpg
+    caption: "William Bouguereau, Girl with a Pomegranate, 1875, oil on canvas, 59 x 44.5 cm."
     credit:  Lusail Museum, Qatar Museums, 2022.
     download: true
     zoom: true
 
   - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
+    src: figures/T2.png
+    caption: "William Bouguereau, Girl with a Pomegranate, 1875, oil on canvas, 59 x 44.5 cm."
     credit:  Lusail Museum, Qatar Museums, 2022.
 
   - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
+    src: figures/T3.png
+    caption: "The Carpet Menders, Rudolf Swoboda, 1883, Oil on canvas."
     credit:  Lusail Museum, Qatar Museums, 2022.
